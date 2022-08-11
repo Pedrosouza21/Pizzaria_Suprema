@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "pizzariatt",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
